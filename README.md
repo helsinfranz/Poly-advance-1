@@ -1,6 +1,6 @@
 # Polygon-1
 
-This Markdown file provides instructions for deploying and managing our NFT contract on the Ethereum testnet and Polygon Mumbai network.
+This is the project where we deploy our nft contract to etherium testnet, and then we mint the nft's and then we map it and then we send it to mumbai network.
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ npx hardhat run scripts/approveDeposit.js --network goerli
 
 ### Viewing the Prompt
 
-If you want to generate images of the NFTs, you can view the prompt by running the following command:
+If you want to view the prompt, you can run by using the following command:
 
 \`\`\`shell
 yarn hardhat run scripts/viewPrompt.js
