@@ -1,0 +1,1 @@
+export const collectionUrl = 'https://gateway.pinata.cloud/ipfs/QmYvWXT5vzguF7kum2KBWycSRczey4RZWBdopXAHJAFn1a'
